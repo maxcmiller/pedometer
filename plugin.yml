@@ -1,0 +1,9 @@
+name: Pedometer
+main: com.maxcmiller.pedometer.Main
+version: 1.0
+description: >
+             Adds a functional pedometer item to Minecraft
+commands:
+  pedometer:
+    description: Gives yourself a Pedometer
+    usage: /pedometer
